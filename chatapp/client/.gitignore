@@ -21,3 +21,11 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+REACT_APP_apikey = "AIzaSyDDpvPvnKjGdehnKpnehh_YG1l7ThtPP-M"
+REACT_APP_authDomain = "chat-app-ad44e.firebaseapp.com"
+REACT_APP_databaseURL= 
+REACT_APP_projectId= "chat-app-ad44e"
+REACT_APP_storageBucket= "chat-app-ad44e.appspot.com" 
+REACT_APP_messagingSenderId="1013975379476"
+REACT_APP_appId="1:1013975379476:web:34044a492508baa07a0101"
